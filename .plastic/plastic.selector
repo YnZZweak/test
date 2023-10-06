@@ -1,0 +1,4 @@
+repository "test1@ynzzalinkto@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
